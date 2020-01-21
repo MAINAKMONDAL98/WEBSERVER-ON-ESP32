@@ -1,6 +1,9 @@
+  
 <!DOCTYPE html>
 <html>
 <head>
+    
+<img src="http://www.csr.res.in/images/Picture6.png">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" href="data:,">
   <style>
@@ -9,6 +12,7 @@
       font-family: "Trebuchet MS", Arial;
       margin-left:auto;
       margin-right:auto;
+      background-color: #CCFFFF;
     }
     .slider {
       width: 300px;
@@ -36,6 +40,8 @@
     }
 
   </script>
+
+
 </body>
 <style>
 .footer {
@@ -47,9 +53,10 @@
   color: white;
   text-align: center;
 }
+.heart{color:#e25555;}
 </style>
 
 <div class="footer">
-  <p>Made with favorite by<a href="https://www.linkedin.com/in/mainak-mondal-47b203190/"> MAINAK MONDAL</a> </p>
+  <p>Made with <span class="heart">❤ </span> by<a href="https://www.linkedin.com/in/mainak-mondal-47b203190/"> MAINAK MONDAL</a> </p>
 </div>
 </html>
